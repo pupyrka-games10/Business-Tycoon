@@ -1,0 +1,20 @@
+{
+  "name": "Business Tycoon",
+  "short_name": "Tycoon",
+  "description": "Кликер-симулятор бизнеса: тапай, открывай компании, инвестируй и покупай яхты и космические базы.",
+  "lang": "ru",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b2a17",
+  "theme_color": "#00b863",
+  "categories": ["games", "finance"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
